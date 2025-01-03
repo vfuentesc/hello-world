@@ -10,5 +10,8 @@ Fuentes Campos, vfuentes
 
 # Segunda sección
 
+**Más texto en negrita**
+
 ## Otro subtitulo
 
+*Otro más en cursiva*
