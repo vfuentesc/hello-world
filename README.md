@@ -1,7 +1,7 @@
 # hello-world
 Este es mi primer repo
 
-Fuentes Campos, vfuentes
+Fuentes Campos, Víctor
 
 ## Subtítulo
 
